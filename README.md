@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raimonlpz
-- 👀 I’m interested in crazy UI development 
+- 👀 Focused in UI development 
 - 🌱 I’m currently learning ThreeJS, WebGL, shaders...
 - 💞️ I’m looking to collaborate on awesome web apps and creative projects
 - 📫 How to reach me: raimonlpez@gmail.com | @__0xrai__ (twitter)
