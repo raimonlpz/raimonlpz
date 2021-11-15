@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimonlpz
 - 👀 Focused in UI development 
-- 🌱 I’m currently learning ThreeJS, WebGL, shaders...
+- 🌱 I’m currently learning ThreeJS, Flutter, SC langs...
 - 💞️ I’m looking to collaborate on awesome web apps and creative projects
 - 📫 How to reach me: raimonlpez@gmail.com | @__0xrai__ (twitter)
 
