@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimonlpz
 - 👀 Focused in UI development 
-- 🌱 I’m currently interested in React, Dart/Flutter, Swift...
+- 🌱 I’m currently interested in React, Web3, Swift...
 - 💞️ I’m looking to collaborate on awesome web apps and creative projects
 - 📫 How to reach me: raimonlpez@gmail.com | @__0xrai__ (twitter)
 
