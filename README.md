@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimonlpz
 - 👀 Focused in Web development 
-- 🌱 I’m currently interested in Typescript & Rust
+- 🌱 I’m currently interested in Typescript & Clean code
 - 💞️ I’m looking to collaborate on awesome web apps and creative projects
 - 📫 How to reach me: raimonlpez@gmail.com
 
